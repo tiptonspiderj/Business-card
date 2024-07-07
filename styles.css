@@ -1,0 +1,33 @@
+body {
+    margin: 20px;
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.avatar {
+    width: 200px;
+    border-radius: 5px;
+    box-shadow: 10px 10px 15px #33415c;
+}
+
+.card {
+    width: 450px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #0077b6;
+    color: #31393c;
+    border-bottom: 6px solid #33415c;
+    border-radius: 5px;
+}
+
+.about-me{
+    transition: transform 1.5s;   
+}
+.about-me:hover{
+        transform: scale(1.2) translateY(10px);        
+  }
+
+
+
