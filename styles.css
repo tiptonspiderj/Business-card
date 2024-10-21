@@ -5,29 +5,71 @@ body {
 
 .avatar {
     width: 200px;
-    border-radius: 5px;
+    border-radius: 20px;
     box-shadow: 10px 10px 15px #33415c;
+    margin: 0;
 }
 
-.card {
+.scene {
+    background-color: transparent;
+    position: absolute;
+    perspective: 1000px
+}
+
+.card-inner {
     width: 450px;
-    margin: 0 auto;
-    padding: 20px;
-    display: flex;
-    justify-content: space-around;
-    text-align: center;
-    background: #0077b6;
-    color: #31393c;
-    border-bottom: 6px solid #33415c;
-    border-radius: 5px;
+    height: 200px;
+    background: #05A8FE;
+    color: #2b2839;
+    border-radius: 20px;
+    border-top: 8px groove #0287CD;
+    border-bottom: 8px ridge #0287CD;
+    transition: transform .6s;
+    transform-style: preserve-3d
 }
 
-.about-me{
-    transition: transform 1.5s;   
+.scene:hover .card-inner {
+    transform: rotateY(180deg)
 }
-.about-me:hover{
-        transform: scale(1.2) translateY(10px);        
-  }
+
+.card-front,.card-back {
+    position: absolute;
+    width: 90%;
+    backface-visibility: hidden
+}
+
+.card-front {
+    margin: 18px 25px;
+    display: flex;
+    
+   
+}
+.about-me{
+    margin-left: 20px;
+}
+
+.card-back {
+    transform: rotateY(180deg);
+    padding-top: 10px;
+    margin: auto;
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.icon {
+    width: 20px
+}
+
+a {
+    color: inherit;
+}
+
+.qr-code {
+    width: 150px;
+}
+
 
 
 
