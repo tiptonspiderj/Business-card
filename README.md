@@ -1,4 +1,4 @@
-# Digital Business Card
+# Business Card
 This was a fun project for building a digital business card with links to my e-mail, LinkedIn profile, and my Github profile.
 
 ## Description
