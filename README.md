@@ -9,7 +9,7 @@ A unique way of carrying a business card.  I can now just text a link to people 
 
 Click on the image below to see the live website.
 
-[![application images](https://github.com/tiptonspiderj/Digital-business-card/blob/main/images/Screenshot.png)](https://tiptonspiderj1-digital-business-card.netlify.app/)
+[![application images](https://github.com/tiptonspiderj/Business-card/blob/main/images/Screenshot.png)]()
 
 ### Installing for Windows
 
