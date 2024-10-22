@@ -23,11 +23,10 @@ None
 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Background Color | ![#23252c](https://imageplaceholder.net/10x10/23252c) #23252c |
-| Card Background Color | ![#1a1b21](https://imageplaceholder.net/10x10/1a1b21) #1a1b21 |
-| Text Color | ![#dcdcdc](https://imageplaceholder.net/10x10/dcdcdc) #dcdcdc |
+| Background Color | ![#05a8fe](https://imageplaceholder.net/10x10/05a8fe) #05a8fe |
+| Text Color | ![#000000](https://imageplaceholder.net/10x10/000000) #000000 |
 | Button Color | ![#5093e2](https://imageplaceholder.net/10x10/5093e2) #5093e2 |
-| Button Color | ![#f5f5f5](https://imageplaceholder.net/10x10/f5f5f5) #f5f5f5 |
+
 
 
 ## Authors
