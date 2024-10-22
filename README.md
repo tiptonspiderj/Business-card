@@ -25,7 +25,7 @@ None
 | ----------------- | ------------------------------------------------------------------ |
 | Background Color | ![#05a8fe](https://imageplaceholder.net/10x10/05a8fe) #05a8fe |
 | Text Color | ![#000000](https://imageplaceholder.net/10x10/000000) #000000 |
-| Button Color | ![#5093e2](https://imageplaceholder.net/10x10/5093e2) #5093e2 |
+| Border Color | ![#0287cd](https://imageplaceholder.net/10x10/0287cd) #0287cd |
 
 
 
